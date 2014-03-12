@@ -1,6 +1,6 @@
 {
   "name": "whir-clog",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Wrapped console.log function which prepends a formatted time at the start",
   "main": "index.js",
   "scripts": {

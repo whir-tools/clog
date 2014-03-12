@@ -15,3 +15,6 @@ var boundClog = clog.bind(null, 'other');
 boundClog('thing'); // 0.032s - other thing
 
 ```
+
+##todo
+- adapt timestring depending on how long it has been running
