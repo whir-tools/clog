@@ -1,0 +1,19 @@
+{
+  "name": "whir-clog",
+  "version": "0.0.1",
+  "description": "Wrapped console.log function which prepends a formatted time at the start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/whir-tools/clog.git"
+  },
+  "author": "Dan Peddle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whir-tools/clog/issues"
+  },
+  "homepage": "https://github.com/whir-tools/clog"
+}
